@@ -10,4 +10,5 @@ public class VentanaPacman extends JFrame{
 
 	
 	
+	
 }

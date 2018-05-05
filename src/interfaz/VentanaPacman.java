@@ -4,6 +4,6 @@ import javax.swing.*;
 
 public class VentanaPacman extends JFrame{
 
-	private String args;
+	private String arg;
 	
 }
